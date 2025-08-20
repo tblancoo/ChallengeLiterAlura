@@ -99,5 +99,5 @@ Os dados utilizados neste projeto foram obtidos da API pública do [Gutendex](ht
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Seu Nome Aqui**  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) • [GitHub](https://github.com/seu-usuario)
+Desenvolvido por Tiago Blanco
+[LinkedIn][(https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/tiago-blanco-492b26143)) • [GitHub]([https://github.com/seu-usuario](https://github.com/tblancoo))
